@@ -1,0 +1,4 @@
+We made an agario like game that had two players pinned against each other, and each block you "ate" would increase your score by 1. The players then raced to see who could get a score of 10 faster or eat the other player. Whichever player had more points determined who would win the fight.
+
+Kellen - collision, win screen, organizing the blocks, movements speeds, making the movement of "w a s d" player more clean
+James - startup code, movements, "w a s d" movements, sound files, re-organizing the code into helpers

@@ -1,0 +1,5 @@
+My task was setting up the structure of the game, getting the board and boxes setup to the point to where we could move them around into a more organized fashion. I also assited with the collisions and movements that Kellen implemeneted. Each of those tasks contributed to the final run of the game. 
+
+The biggest technical challenge was getting the SD cards to read a sound file.
+
+If I could do anything differently it would be to enable the players to get bigger after "eating" another box.
